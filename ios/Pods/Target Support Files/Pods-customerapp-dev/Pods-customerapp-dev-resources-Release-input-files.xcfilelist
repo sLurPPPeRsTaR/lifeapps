@@ -1,0 +1,10 @@
+${PODS_ROOT}/Target Support Files/Pods-customerapp-dev/Pods-customerapp-dev-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleSignIn/GoogleSignIn.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/RNImageCropPicker/QBImagePicker.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/TOCropViewController/TOCropViewControllerBundle.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/gRPC-C++/gRPCCertificates-Cpp.bundle
+${PODS_ROOT}/../../react-native-aaiios-liveness-sdk/ios/AAILivenessSDK/Resource/AAIAudio.bundle
+${PODS_ROOT}/../../react-native-aaiios-liveness-sdk/ios/AAILivenessSDK/Resource/AAIImgs.bundle
+${PODS_ROOT}/../../react-native-aaiios-liveness-sdk/ios/AAILivenessSDK/Resource/AAILanguageString.bundle
+${PODS_ROOT}/../../react-native-aaiios-liveness-sdk/ios/AAILivenessSDK/Resource/AAIModel.bundle

@@ -1,0 +1,6 @@
+module Datadog {
+  umbrella header "DatadogSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

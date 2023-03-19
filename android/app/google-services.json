@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "895577377353",
+    "project_id": "customerapp-afe6c",
+    "storage_bucket": "customerapp-afe6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895577377353:android:37d540554ddd276842cd98",
+        "android_client_info": {
+          "package_name": "id.lifecustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895577377353-9mqq5q6ar94ubf5j5enj05qm3pmo2b18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer",
+            "certificate_hash": "6dd09b728a6fa37c05e264fd8b022dab9312f848"
+          }
+        },
+        {
+          "client_id": "895577377353-jo4kn8al6h4cq6ktcf7ocovc8ut6iomo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer",
+            "certificate_hash": "6c2d886116676b66fff19b7e0f80354d10d3054b"
+          }
+        },
+        {
+          "client_id": "895577377353-kcntf3d9iho48vsoff60mghimlbegaio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer",
+            "certificate_hash": "b9adfd6fbf7ab268dc257ddcd6477ae56a29538f"
+          }
+        },
+        {
+          "client_id": "895577377353-n1pbihlnqovtkpub5ut8460n90nnt3s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer",
+            "certificate_hash": "dd407904210137d5df67f909dd37f41dd18a22f1"
+          }
+        },
+        {
+          "client_id": "895577377353-q651e9ojfoo0aehpthauvgm5eqnsr6qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer",
+            "certificate_hash": "61b4165357e64e04b67e5b60d9cc24a0d160dfcf"
+          }
+        },
+        {
+          "client_id": "895577377353-vpqkcc8mj0pq1e6f6sb1gtn475fk89jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "895577377353-1n0oqv2njt84sklv5cnrmh3kug05335e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuo0PQKVjM740bHQhg0XrUlmhep1EalJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895577377353-1n0oqv2njt84sklv5cnrmh3kug05335e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895577377353-39j3gtopkopu8a1r2d3spb3n09hnasbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.life.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895577377353:android:c78ed60f3b7ae52d42cd98",
+        "android_client_info": {
+          "package_name": "id.lifecustomer.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895577377353-996cl8akubdu816s5o1najf0qqq6eug3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.dev",
+            "certificate_hash": "6c2d886116676b66fff19b7e0f80354d10d3054b"
+          }
+        },
+        {
+          "client_id": "895577377353-gpndghni4n758h0aj3mj9udbgnqriomg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "895577377353-mnvifoqk65qs3tvck48dadt31v8scu0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.dev",
+            "certificate_hash": "dd407904210137d5df67f909dd37f41dd18a22f1"
+          }
+        },
+        {
+          "client_id": "895577377353-r9dlldjn7kjp662bj816irtnfbtvko10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.dev",
+            "certificate_hash": "61b4165357e64e04b67e5b60d9cc24a0d160dfcf"
+          }
+        },
+        {
+          "client_id": "895577377353-ua8vjjjf8agkbdnnp3lkbrog5ndq32ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.dev",
+            "certificate_hash": "b9adfd6fbf7ab268dc257ddcd6477ae56a29538f"
+          }
+        },
+        {
+          "client_id": "895577377353-vaim7rp5kmn2to66o2fceg4a51dkaoro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.dev",
+            "certificate_hash": "6dd09b728a6fa37c05e264fd8b022dab9312f848"
+          }
+        },
+        {
+          "client_id": "895577377353-1n0oqv2njt84sklv5cnrmh3kug05335e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuo0PQKVjM740bHQhg0XrUlmhep1EalJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895577377353-1n0oqv2njt84sklv5cnrmh3kug05335e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895577377353-39j3gtopkopu8a1r2d3spb3n09hnasbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.life.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895577377353:android:5985019cc013888142cd98",
+        "android_client_info": {
+          "package_name": "id.lifecustomer.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895577377353-1n7g4m7s1v6edcvb7st4a1mffhth7p69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.uat",
+            "certificate_hash": "b9adfd6fbf7ab268dc257ddcd6477ae56a29538f"
+          }
+        },
+        {
+          "client_id": "895577377353-86j5ukm09mtirilhl7jm3gp9o0e55bg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.uat",
+            "certificate_hash": "dd407904210137d5df67f909dd37f41dd18a22f1"
+          }
+        },
+        {
+          "client_id": "895577377353-gfkk63re3q9drjunn0j5p3l97921uls8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.uat",
+            "certificate_hash": "6c2d886116676b66fff19b7e0f80354d10d3054b"
+          }
+        },
+        {
+          "client_id": "895577377353-hhiu9gkrld66c88kmlaj1esga6u3sd2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.uat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "895577377353-n6sco6ffrt3f074d2leuki76jdckq19f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.uat",
+            "certificate_hash": "61b4165357e64e04b67e5b60d9cc24a0d160dfcf"
+          }
+        },
+        {
+          "client_id": "895577377353-ov6ca0m0nl81iq0g7m46aco8copt28aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.lifecustomer.uat",
+            "certificate_hash": "6dd09b728a6fa37c05e264fd8b022dab9312f848"
+          }
+        },
+        {
+          "client_id": "895577377353-1n0oqv2njt84sklv5cnrmh3kug05335e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuo0PQKVjM740bHQhg0XrUlmhep1EalJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895577377353-1n0oqv2njt84sklv5cnrmh3kug05335e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895577377353-39j3gtopkopu8a1r2d3spb3n09hnasbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.life.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

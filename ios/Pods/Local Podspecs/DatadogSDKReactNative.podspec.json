@@ -1,0 +1,34 @@
+{
+  "name": "DatadogSDKReactNative",
+  "version": "1.4.0",
+  "summary": "A client-side React Native module to interact with Datadog",
+  "homepage": "https://github.com/DataDog/dd-sdk-reactnative#readme",
+  "license": "Apache-2.0",
+  "authors": "Datadog (https://github.com/DataDog)",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/DataDog/dd-sdk-reactnative.git",
+    "tag": "1.4.0"
+  },
+  "source_files": "ios/Sources/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "DatadogSDK": [
+      "~> 1.15.0"
+    ],
+    "DatadogSDKCrashReporting": [
+      "~> 1.15.0"
+    ]
+  },
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "source_files": "ios/Tests/*.swift"
+    }
+  ]
+}

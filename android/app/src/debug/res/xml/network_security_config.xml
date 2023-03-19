@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config>
+        <domain includeSubdomains="true">https://api-customer-dev.ifg-life.id</domain>
+        <domain includeSubdomains="true">https://uat.life.id/api</domain>
+        <domain includeSubdomains="true">https://www.life.id/api</domain>
+        <!-- <trust-anchors>
+            <certificates src="@raw/my_ca"/>
+        </trust-anchors> -->
+    </domain-config>
+</network-security-config>

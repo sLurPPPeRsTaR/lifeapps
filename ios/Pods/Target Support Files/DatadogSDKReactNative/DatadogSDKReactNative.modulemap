@@ -1,0 +1,6 @@
+module DatadogSDKReactNative {
+  umbrella header "DatadogSDKReactNative-umbrella.h"
+
+  export *
+  module * { export * }
+}

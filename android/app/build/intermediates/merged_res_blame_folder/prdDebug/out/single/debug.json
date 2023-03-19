@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xhdpi_ojk.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xhdpi/ojk.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/drawable-xhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/drawable-xhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-hdpi_ojk.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-hdpi/ojk.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-mdpi_ojk.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-mdpi/ojk.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxxhdpi_background.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/drawable-xxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/drawable-xxhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xhdpi_logo.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/layout_launch_screen.xml.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-mdpi_logo.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/raw_sound_file.wav.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/raw/sound_file.wav"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-hdpi_background.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-hdpi/background.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xhdpi_background.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xhdpi/background.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxhdpi_background.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-mdpi_background.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-mdpi/background.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxhdpi_ojk.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxhdpi/ojk.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/drawable-mdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/drawable-mdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-hdpi_logo.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxxhdpi_logo.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/drawable-xxxhdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/drawable-xxxhdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/font_montserrat_regular.ttf.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/font/montserrat_regular.ttf"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/drawable-hdpi_ic_stat_onesignal_default.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/drawable-hdpi/ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxxhdpi_ojk.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxxhdpi/ojk.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxhdpi_logo.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/debug/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/res/merged/prd/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,6 @@
+module Pods_customerapp {
+  umbrella header "Pods-customerapp-umbrella.h"
+
+  export *
+  module * { export * }
+}

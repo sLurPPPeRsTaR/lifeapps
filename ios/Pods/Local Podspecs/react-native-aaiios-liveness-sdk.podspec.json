@@ -1,0 +1,39 @@
+{
+  "name": "react-native-aaiios-liveness-sdk",
+  "version": "1.2.9",
+  "summary": "TODO",
+  "description": "react-native-aaiios-liveness-sdk",
+  "homepage": "https://github.com/github_account/react-native-aaiios-liveness-sdk",
+  "license": "MIT",
+  "authors": {
+    "Your Name": "yourname@email.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/github_account/react-native-aaiios-liveness-sdk.git",
+    "tag": "1.2.9"
+  },
+  "resources": "ios/AAILivenessSDK/Resource/*.bundle",
+  "source_files": "ios/AAILivenessSDK/AAILiveness/*.{h,m}",
+  "requires_arc": true,
+  "vendored_frameworks": "ios/AAILivenessSDK/AAILivenessSDK.xcframework",
+  "frameworks": [
+    "AVFoundation",
+    "CoreMotion",
+    "SystemConfiguration",
+    "CoreTelephony"
+  ],
+  "ios": {
+    "libraries": [
+      "c++",
+      "z"
+    ]
+  },
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

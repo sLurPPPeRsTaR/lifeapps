@@ -1,0 +1,16 @@
+export { default as LifesaverDetailProduct } from './LifesaverDetailProduct';
+export { default as LifesaverSyaratKetentuan } from './LifesaverSyaratKetentuan';
+export { default as LifesaverRiplay } from './LifesaverRiplay';
+export { default as TransaksiSukses } from './TransaksiSukses';
+export { default as LifesaverChangePaket } from './LifesaverChangePaket';
+export { default as LifesaverOrderPage } from './LifesaverOrderPage';
+export { default as LifesaverKebijakanPrivasi } from './LifesaverKebijakanPrivasi';
+export { default as LifesaverVoucher } from './LifesaverVoucher';
+export { default as LifesaverProtected } from './LifesaverProtected';
+export { default as LifesaverMain } from './LifesaverMain';
+export { default as LifesaverFAQ } from './LifesaverFAQ';
+export { default as LifesaverDowngrade } from './LifesaverDowngrade';
+export { default as LifesaverMainV2 } from './LifesaverMainV2';
+// export { default as LifesaverIntroduction } from './LifesaverIntroduction';
+export { default as LifesaverOrderOther } from './LifesaverOrderOther';
+export { default as LifesaverUploadKTPCam } from './LifesaverUploadKTPCam';

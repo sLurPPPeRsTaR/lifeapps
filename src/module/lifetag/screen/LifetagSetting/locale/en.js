@@ -1,0 +1,42 @@
+export default {
+  pengaturanLifeTag: 'LifeTag Settings',
+  kamuDapatMerubah:
+    'You can change your information and set privacy on your LifeTag profile.',
+  golonganDarah: 'Blood Type',
+  alergi: 'Allergy',
+  masukkanAlergi: 'Enter Allergy',
+  riwayatPenyakit: 'Disease History',
+  masukkanRiwayatPenyakit: 'Enter Disease History',
+  kontakDarurat: 'Emergency Contact',
+  namaKontakDarurat: 'Emergency Contact Name',
+  nomorTeleponDarurat: 'Emergency Phone Number',
+  namaPerangkat: 'Device Name',
+  tulisNamaPerangkat: 'LifeTag ',
+  kamuDapatMenghapus: 'You can remove LifeTag from your account',
+  aktif: 'Active',
+  hapusDariPerangkat: 'Remove from Device',
+  apakahKamuYakin:
+    'Are you sure you want to remove this LifeTag from the device you are using?',
+  kembali: 'Back',
+  hapusPerangkat: 'Remove Device',
+  tambahKontak: 'Add Another Contact +',
+  hapusKontak: 'Delete Another Contact -',
+  unlinkLifetag: 'Remove LifeTag',
+  kamuBerhasilMenghapus:
+    'You Have Successfully Deleted The Session From This Device',
+
+  // Validation Inputs Message
+  bloodTypeIsRequired: 'Blood Type is required',
+  bloodTypeIsInvalid: 'Blood Type is invalid',
+  allergicIsInvalid: 'Allergy is invalid',
+  allergicMaxLength: 'Allergy must be less than 30 characters',
+  diseaseHistoryIsInvalid: 'Disease History is invalid',
+  diseaseHistoryMaxLength: 'Disease History must be less than 30 characters',
+  nameIsRequired: 'Emergency Contact Name is required',
+  nameIsInvalid: 'Emergency Contact Name is invalid',
+  phoneNumberIsRequired: 'Emergency Phone Number is required',
+  phoneNumberIsInvalid: 'Emergency Phone Number is invalid',
+  deviceNameIsRequired: 'Device Name is required',
+  deviceNameIsInvalid: 'Device Name is invalid',
+  deviceNameMaxLength: 'Device Name must be less than 30 characters',
+};

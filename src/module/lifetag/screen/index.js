@@ -1,0 +1,11 @@
+export { default as LifetagMain } from './LifetagMain';
+export { default as LifetagSetting } from './LifetagSetting';
+export { default as LifetagLanding } from './LifetagLanding';
+export { default as LifetagForm } from './LifetagForm';
+export { default as LifetagDetailProduct } from './LifetagDetailProduct';
+export { default as LifetagConfirmation } from './LifetagConfirmation';
+export { default as LifetagDeviceList } from './LifetagDeviceList';
+export { default as LifetagDetailOrder } from './LifetagDetailOrder';
+export { default as LifetagStepPairing } from './LifetagStepPairing';
+export { default as LifetagQrScanner } from './LifetagQrScanner';
+export { default as LifetagPairingResult } from './LifetagPairingResult';

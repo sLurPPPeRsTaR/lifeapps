@@ -1,0 +1,1 @@
+../../../../../node_modules/@datadog/mobile-react-native/ios/Sources/DdSdkReactNative-Bridging-Header.h

@@ -1,0 +1,14 @@
+id/lifecustomer/BuildConfig.java
+ id.lifecustomer.BuildConfig
+com/customerapp/ReactNativeFlipper.java
+ id.lifecustomer.ReactNativeFlipper
+ id.lifecustomer.ReactNativeFlipper$1
+ id.lifecustomer.ReactNativeFlipper$2
+ id.lifecustomer.ReactNativeFlipper$2$1
+id/lifecustomer/MainActivity.java
+ id.lifecustomer.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+id/lifecustomer/MainApplication.java
+ id.lifecustomer.MainApplication
+ id.lifecustomer.MainApplication$1

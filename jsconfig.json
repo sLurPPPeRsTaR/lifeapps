@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2016",
+    "baseUrl": ".",
+    "paths": {
+      "ca-bootstrap/*": ["./src/bootstrap/*"],
+      "ca-asset/*": ["./src/asset/*"],
+      "ca-config/*": ["./src/config/*"],
+      "ca-util/*": ["./src/util/*"],
+      "ca-navigation/*": ["./src/navigation/*"],
+      "ca-component-container/*": ["./src/component/container/*"],
+      "ca-component-generic/*": ["./src/component/generic/*"],
+      "ca-component-card/*": ["./src/component/card/*"],
+      "ca-component-modal/*": ["./src/component/modal/*"],
+      "ca-component-lifesaver/*": ["./src/component/lifesaver/*"],
+      "ca-module-auth/*": ["src/module/auth/*"],
+      "ca-module-login/*": ["./src/module/login/*"],
+      "ca-module-register/*": ["./src/module/register/*"],
+      "ca-module-forpass/*": ["./src/module/forpass/*"],
+      "ca-module-home/*": ["./src/module/home/*"],
+      "ca-module-polis/*": ["src/module/polis/*"],
+      "ca-module-profile/*": ["./src/module/profile/*"],
+      "ca-module-support/*": ["./src/module/support/*"],
+      "ca-module-explore/*": ["./src/module/explore/*"],
+      "ca-module-kyc/*": ["./src/module/kyc/*"],
+      "ca-module-updata/*": ["./src/module/updata/*"],
+      "ca-module-lifecover/*": ["./src/module/lifecover/*"],
+      "ca-module-lifesaver/*": ["./src/module/lifesaver/*"],
+      "ca-module-payments/*": ["./src/module/payments/*"],
+      "ca-module-subs/*": ["./src/module/subs/*"],
+      "ca-module-invitation/*": ["./src/module/invitation/*"],
+      "ca-module-event/*": ["./src/module/event/*"],
+      "ca-module-lifetag/*": ["./src/module/lifetag/*"],
+      "ca-module-article/*": ["./src/module/article/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

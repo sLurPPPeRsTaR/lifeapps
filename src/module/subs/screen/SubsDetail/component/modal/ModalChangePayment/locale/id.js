@@ -1,0 +1,26 @@
+export default {
+  metodePembayaran: 'Metode Pembayaran',
+  kartuSaya: 'Kartu Kredit/Debit Saya',
+  tambahkan: 'Tambahkan',
+  kreditDebit: 'Kartu Kredit/Debit saya',
+  nomorKartuPlaceholder: 'Contoh: 123I4 5678 9012 3256',
+  masaBerlakuPlaceholder: 'MM / YY',
+  CVVPlaceholder: '123',
+  namaKartuPlaceholder: 'Contoh: BCA John Doe',
+  denganMenginput:
+    'Dengan memasukkan data berikut, saya bersedia untuk membagikan data sesuai ',
+  tAndCPayment: 'Syarat dan Ketentuan Pembayaran.',
+  nomorKartu: 'Nomor Kartu Kredit/Debit',
+  masaBerlaku: 'Masa Berlaku',
+  simpanSebagai: 'Simpan Sebagai',
+  pilih: 'Pilih',
+  masukanCvv: 'Masukkan CVV',
+  silahkanMasukanCvv:
+    'Silakan masukkan CVV yang terletak dibelakang kartu kamu.',
+  formatBulanTidakValid: 'Format bulan tidak valid',
+  formatTglTidakValid: 'Format MM/YY',
+  cardExpired: 'Masa berlaku sudah kadaluwarsa',
+  kartuTidakValid: 'Kartu tidak valid',
+  belumAdaKartu: 'Anda belum menambahkan Kartu',
+  tambahKartu: 'Kartu Kredit/Debit',
+};

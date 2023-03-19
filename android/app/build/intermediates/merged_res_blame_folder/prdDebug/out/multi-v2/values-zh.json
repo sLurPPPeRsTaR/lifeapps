@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/raymond/Desktop/code/customer-mobile-apps/android/app/build/intermediates/incremental/mergePrdDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/raymond/.gradle/caches/transforms-3/583f24e6539ddc06896336815ff02e1e/transformed/jetified-ucrop-2.2.6-native/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "34,35,36",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2026,2080,2134",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "2075,2129,2176"
+                    }
+                },
+                {
+                    "source": "/Users/raymond/Desktop/code/customer-mobile-apps/android/liveness/build/intermediates/packaged_res/debug/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,110,162,209,256,319,381,448,501,575,644,747,843,913,985,1063,1116,1179,1231,1296,1369,1432,1467,1519,1567,1629,1685,1734,1798,1863,1918,1970",
+                        "endColumns": "54,51,46,46,62,61,66,52,73,68,102,95,69,71,77,52,62,51,64,72,62,34,51,47,61,55,48,63,64,54,51,55",
+                        "endOffsets": "105,157,204,251,314,376,443,496,570,639,742,838,908,980,1058,1111,1174,1226,1291,1364,1427,1462,1514,1562,1624,1680,1729,1793,1858,1913,1965,2021"
+                    }
+                }
+            ]
+        }
+    ]
+}

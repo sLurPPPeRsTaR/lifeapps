@@ -1,0 +1,16 @@
+export default {
+  ubahPaket: 'Ubah Paket',
+  kamuYakin: 'Apakah Kamu Yakin Ingin Mengubah Paketmu?',
+  manfaatBerubah: 'Manfaat Proteksi Kamu Akan Berubah:',
+  manfaatTetap: 'Manfaat Proteksi yang Tetap Bisa Digunakan:',
+  kembali: 'Tetap paket yang sekarang',
+  transportasiMedis: 'Transportasi Medis',
+  perawatanMedis: 'Perawatan Medis Akibat Olahraga',
+  fisioterapi: 'Fisioterapi (Cashless)',
+  totalMedicalLimit: 'Total Medical Limit Cashless',
+  proteksiOlahragaAir: 'Proteksi Olahraga Air',
+  meninggalDunia: 'Meninggal Dunia/Cacat Tetap',
+  terproteksi: 'Terproteksi',
+  tidak: 'Tidak',
+  covered: 'Covered',
+};

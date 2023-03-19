@@ -1,0 +1,6 @@
+module Pods_customerapp_uat {
+  umbrella header "Pods-customerapp-uat-umbrella.h"
+
+  export *
+  module * { export * }
+}

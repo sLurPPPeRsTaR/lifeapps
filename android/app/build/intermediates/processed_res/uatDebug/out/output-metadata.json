@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "id.lifecustomer.uat",
+  "variantName": "uatDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 1,
+      "versionName": "1.1.51",
+      "outputFile": "resources-uatDebug.ap_"
+    }
+  ]
+}

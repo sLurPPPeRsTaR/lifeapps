@@ -1,0 +1,20 @@
+export default {
+  ind: 'IND',
+  eng: 'ENG',
+  selamatDatangSahabat: "Welcome\nLifia's Friends",
+  melindungiDenganEasy: 'Protecting with Easly, \nLiving Life without Worry',
+  maauCekApapun: 'Just One Click For Checking!',
+  gampangBangetCek: 'Very easy to check cash value,\nclaim status and payment',
+  byeByeHal: 'Easy, Fast,\nHassle Free!',
+  pengkinianDataTinggal:
+    'Just confirm beneficiary eligibility and fill in the form that will be updated immediately. Realtime!',
+  lewati: 'Skip',
+  daftar: 'Join',
+  pilihBahasa: 'Select Language',
+  indonesia: 'INDONESIA',
+  english: 'ENGLISH',
+  sudahPunyaAkun: 'Already Have an Account?',
+  masuk: 'Login',
+  apaItu: 'What is',
+  klikDisini: 'Click Here',
+};
